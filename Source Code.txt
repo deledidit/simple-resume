@@ -1,0 +1,18 @@
+<html>
+<head>
+	<title>Delsie Ivy's Resume</title>
+</head>
+
+<body>
+	<p>
+		<img src = "DelsieIvy.jpg" width = "92" height = "120"
+			alt = "Delsie Ivy Image"
+	</p>
+
+
+
+
+
+
+
+</html>
